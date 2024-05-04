@@ -1,0 +1,2 @@
+c:/Users/Pavel/AppData/Local/Programs/Python/Python312/python.exe -m pip install torch
+c:/Users/Pavel/AppData/Local/Programs/Python/Python312/python.exe -m pip install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
